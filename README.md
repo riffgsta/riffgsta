@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @riffgsta
+- 👋 Hi, I’m Rifki Dwi Prasetyo
 - 👀 I’m interested in reading
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning web development,Data Analyst
 - 😄 Pronouns: ... rifki/him
-- ⚡ Fun fact: ...i love music
+- ⚡ Fun fact: ...i love music, and I love sleep
 
 <!---
 riffgsta/riffgsta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
