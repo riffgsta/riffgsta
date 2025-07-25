@@ -3,7 +3,7 @@
 I'm a backend developer in training and a data enthusiast from Indonesia 🇮🇩
 
 ## 👨‍💻 About Me
-- 🌱 Currently learning: **Web Development**,**Data Analysis**
+- 🌱 Currently learning: **Web Development**,**Data Analysist**
 - 📚 Love to read and explore new tech
 - 🎧 Fun fact: I enjoy music and love sleep 😴
 - 📫 Reach me: [LinkedIn](#) 
