@@ -5,7 +5,7 @@ I'm a backend developer in training and a data enthusiast from Indonesia 🇮�
 ## 👨‍💻 About Me
 - 🌱 Currently learning: **Web Development**,**Data Analyst**
 - 📚 Love to read and explore new tech
-- 🎧 Fun fact: I enjoy music and love sleep 😴
+- 🎧 Fun fact: I enjoy to listen Music
 - 📫 Reach me: [LinkedIn](#) 
 
 ## 🛠️ Tech Stack
