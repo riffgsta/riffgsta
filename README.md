@@ -11,7 +11,7 @@ I'm a backend developer in training and a data enthusiast from Indonesia 🇮�
 ## 🛠️ Tech Stack
 - **Languages**: PHP, JavaScript, SQL , Python
 - **Tools**: VS Code, Git, Laragon, XAMPP
-- **Currently Exploring**: Laravel, Data 
+- **Currently Exploring**: Laravel
 
 
 ---
