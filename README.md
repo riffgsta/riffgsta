@@ -1,5 +1,5 @@
 
-👨‍💻 About Me :<br> 🎮 I like playing games<br>  🎞 Love watching movies <br>  🎧 Enjoy listening to music ☕ I like Coffee
+👨‍💻 About Me :<br> 🎮 I like playing games<br>  🎞 Love watching movies <br>  🎧 Enjoy listening to music <br> ☕ I like Coffee
 
 
 ## 🌐 Socials:
