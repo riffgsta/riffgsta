@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 👨‍💻 About Me :<br> 🎮 I like playing games<br>  🎞 Love watching movies and series<br>  🎧 Enjoy listening to music
 
 
